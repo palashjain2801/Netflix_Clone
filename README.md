@@ -1,2 +1,2 @@
 # Netflix_Clone
- Netflix_clone for resume 
+Hosted at : https://netflix-clone-87dff.firebaseapp.com/
